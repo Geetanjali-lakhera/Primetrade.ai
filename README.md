@@ -9,7 +9,7 @@ This project analyzes how Fear & Greed sentiment affects trader behavior and per
 - `charts/` - 3 charts of all the 3 questions
 - `Short write-up.docs` - One-page summary of methodology, insights, and recommendations
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Google account (for Colab)
