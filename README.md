@@ -5,9 +5,10 @@ This project analyzes how Fear & Greed sentiment affects trader behavior and per
 
 ##Files Included
 - `NotebookPrimetrade.ipunb` - Main Jupyter notebook with complete code Part A and Part B
-- `README.md` - This file (setup instructions + documentation)
+- `PART C 2 stragies.docx` - Document giving 2 best Strategies based on my findings
 - `charts/` - 3 charts of all the 3 questions
-- `Short write-up.docs` - One-page summary of methodology, insights, and recommendations
+- `Short write-up.docx` - One-page summary of methodology, insights, and recommendations
+- - `README.md` - This file (setup instructions + documentation)
 
 ## Setup Instructions
 
