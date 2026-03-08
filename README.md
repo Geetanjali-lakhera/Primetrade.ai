@@ -26,5 +26,5 @@ This project analyzes how Fear & Greed sentiment affects trader behavior and per
 2. Upload `NotebookPrimetrade.ipynb` or create a new notebook and paste the code
 3. Make sure the file paths in the code match where you saved the data:
    ```python
-   fear_greed = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/fear_greed_index.csv')
-   trades = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/historical_trader_data.csv')
+   fear_greed = pd.read_csv('fear_greed_index.csv')
+   trades = pd.read_csv('historical_data.csv')
